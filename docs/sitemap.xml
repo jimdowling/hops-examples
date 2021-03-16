@@ -3,308 +3,339 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/azure/azure-ml-studio/</loc>
+    <loc>/featurestore/azure/azure-ml-studio/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/benchmarks/benchmark/</loc>
+    <loc>/ml/benchmarks/benchmark/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/hsfs/data_validation/feature_validation_python/</loc>
+    <loc>/featurestore/hsfs/basics/training_datasets/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/hsfs/data_validation/feature_validation_scala/</loc>
+    <loc>/featurestore/hsfs/basics/training-data-coalesced/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/databricks/featurestorequickstartdatabricksazure/</loc>
+    <loc>/featurestore/hsfs/training/training-data-coalesced/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/databricks/featurestorequickstartdatabricksaws/</loc>
+    <loc>/featurestore/hsfs/data_validation/feature_validation_python/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/image_datasets/imagedatasetfeaturestore/</loc>
+    <loc>/featurestore/hsfs/data_validation/feature_validation_scala/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/delta/deltaonhops/</loc>
+    <loc>/featurestore/databricks/featurestorequickstartdatabricksazure/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/spark/elasticsearch-python/</loc>
+    <loc>/featurestore/databricks/featurestorequickstartdatabricksaws/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/spark/elasticsearch-scala/</loc>
+    <loc>/featurestore/image_datasets/imagedatasetfeaturestore/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/hsfs/basics/feature_engineering/</loc>
+    <loc>/featurestore/delta/deltaonhops/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/hsfs/basics/feature_exploration/</loc>
+    <loc>/spark/elasticsearch-python/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/aws/redshift/redshift_pyspark/</loc>
+    <loc>/spark/elasticsearch-scala/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/aws/redshift/redshift_spark/</loc>
+    <loc>/featurestore/hsfs/basics/feature_engineering/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/aws/s3-featurestore/</loc>
+    <loc>/featurestore/hsfs/basics/feature_exploration/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/aws/s3/s3-featurestore/</loc>
+    <loc>/featurestore/aws/redshift/redshift_pyspark/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/hsfs/basics/training_datasets/</loc>
+    <loc>/featurestore/aws/redshift/redshift_spark/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/hive/pyhive/</loc>
+    <loc>/featurestore/aws/s3/s3-ingest-to-feature-store-basics/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/spark/pysparkwithhive/</loc>
+    <loc>/featurestore/aws/s3/s3-ingest-to-feature-store-housing-data/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/filesystem/hopsfsoperations/</loc>
+    <loc>/hive/pyhive/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/hsfs/time_travel/time_travel_python/</loc>
+    <loc>/spark/pysparkwithhive/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/hsfs/time_travel/time_travel_scala/</loc>
+    <loc>/ml/filesystem/hopsfsoperations/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/image_datasets/imagefeaturegroup/</loc>
+    <loc>/featurestore/image_datasets/imagefeaturegroup/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/inference/batch_inference_imagenet_spark/</loc>
+    <loc>/ml/inference/batch_inference_imagenet_spark/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/inference/inference_hello_world/</loc>
+    <loc>/ml/inference/inference_hello_world/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/spark/kafkasparkpython/</loc>
+    <loc>/featurestore/hsfs/serving/feature_engineering-online-fs/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/spark/kafkasparkpython_consumedemoproducer/</loc>
+    <loc>/spark/kafkasparkpython/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/kafka/kafkapython/</loc>
+    <loc>/spark/kafkasparkpython_consumedemoproducer/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/spark/kafkasparkscala_consumedemoproducer/</loc>
+    <loc>/kafka/kafkapython/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/experiment/tensorflow/mnist/</loc>
+    <loc>/spark/kafkasparkscala_consumedemoproducer/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/parallel_experiments/maggy/maggy-ablation-titanic-example/</loc>
+    <loc>/ml/experiment/tensorflow/mnist/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/parallel_experiments/maggy/maggy-fashion-mnist-example/</loc>
+    <loc>/ml/parallel_experiments/maggy/maggy-ablation-titanic-example/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/parallel_experiments/maggy/maggy-pytorch-example/</loc>
+    <loc>/ml/parallel_experiments/maggy/maggy-fashion-mnist-example/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/distributed_training/mirrored_strategy/mirroredstrategy_simulated_data_example/</loc>
+    <loc>/ml/parallel_experiments/maggy/maggy-pytorch-example/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/distributed_training/mirrored_strategy/mirroredstrategy_mnist_example/</loc>
+    <loc>/ml/distributed_training/mirrored_strategy/mirroredstrategy_simulated_data_example/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/distributed_training/multiworker_mirrored_strategy/multiworkermirroredstrategy_mnist_example/</loc>
+    <loc>/ml/distributed_training/mirrored_strategy/mirroredstrategy_mnist_example/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/distributed_training/multiworker_mirrored_strategy/multiworkermirroredstrategy_simulated_data_example/</loc>
+    <loc>/ml/distributed_training/multiworker_mirrored_strategy/multiworkermirroredstrategy_mnist_example/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/numpy/numpy-hdfs/</loc>
+    <loc>/ml/distributed_training/multiworker_mirrored_strategy/multiworkermirroredstrategy_simulated_data_example/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/pandas/pandas-hdfs/</loc>
+    <loc>/ml/numpy/numpy-hdfs/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/petastorm/petastormhelloworld/</loc>
+    <loc>/featurestore/hsfs/serving/feature_vector_model_serving/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/petastorm/petastormmnist_createdataset/</loc>
+    <loc>/ml/pandas/pandas-hdfs/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/experiment/pytorch/mnist/</loc>
+    <loc>/featurestore/petastorm/petastormhelloworld/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/petastorm/petastormmnist_pytorch/</loc>
+    <loc>/featurestore/petastorm/petastormmnist_createdataset/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/aws/sagemakerfeaturestoretourpython/</loc>
+    <loc>/ml/experiment/pytorch/mnist/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/aws/sagemaker/sagemakerfeaturestoretourpython/</loc>
+    <loc>/featurestore/petastorm/petastormmnist_pytorch/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/end_to_end_pipeline/sklearn/irisclassification_and_serving_sklearn/</loc>
+    <loc>/featurestore/aws/sagemaker/sagemakerfeaturestoretourpython/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/snowflake/get_started_setup/</loc>
+    <loc>/ml/end_to_end_pipeline/sklearn/irisclassification_and_serving_sklearn/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/snowflake/pysparkchurncreatefeaturegroups/</loc>
+    <loc>/featurestore/snowflake/get_started_setup/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/snowflake/pythonchurncreatefeaturegroups/</loc>
+    <loc>/featurestore/snowflake/pysparkchurncreatefeaturegroups/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/end_to_end_pipeline/tensorflow/model_repo_and_serving/</loc>
+    <loc>/featurestore/snowflake/pythonchurncreatefeaturegroups/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/petastorm/petastormmnist_tensorflow/</loc>
+    <loc>/ml/end_to_end_pipeline/tensorflow/model_repo_and_serving/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/datasets/titanictrainingdatasetpython/</loc>
+    <loc>/featurestore/petastorm/petastormmnist_tensorflow/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/plotting/folium_heat_map/</loc>
+    <loc>/featurestore/hsfs/time_travel/time_travel_python/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/plotting/matplotlib_sparkmagic/</loc>
+    <loc>/featurestore/hsfs/time_travel/time_travel_scala/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/plotting/what_if_tool_notebook/</loc>
+    <loc>/featurestore/datasets/titanictrainingdatasetpython/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/plotting/ipyleaflet/</loc>
+    <loc>/ml/plotting/folium_heat_map/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/featurestore/visualizations/feature_visualizations/</loc>
+    <loc>/ml/plotting/matplotlib_sparkmagic/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/beam/portability_wordcount_python/</loc>
+    <loc>/ml/plotting/what_if_tool_notebook/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/parallel_experiments/pytorch/differential_evolution/mnist/</loc>
+    <loc>/ml/plotting/ipyleaflet/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/parallel_experiments/tensorflow/evolutionary_search/evolutionary_search_mnist/</loc>
+    <loc>/featurestore/visualizations/feature_visualizations/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/ml/parallel_experiments/tensorflow/grid_search/grid_search_fashion_mnist/</loc>
+    <loc>/beam/portability_wordcount_python/</loc>
   </url>
   
   <url>
-    <loc>https://examples.hopsworks.ai/</loc>
+    <loc>/featurestore/hsfs/snowflake/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/featurestore/hsfs/snowflake/pyspark/</loc>
+  </url>
+  
+  <url>
+    <loc>/featurestore/hsfs/snowflake/python/</loc>
+  </url>
+  
+  <url>
+    <loc>/featurestore/hsfs/snowflake/scala/</loc>
+  </url>
+  
+  <url>
+    <loc>/ml/parallel_experiments/pytorch/differential_evolution/mnist/</loc>
+  </url>
+  
+  <url>
+    <loc>/ml/parallel_experiments/tensorflow/evolutionary_search/evolutionary_search_mnist/</loc>
+  </url>
+  
+  <url>
+    <loc>/ml/parallel_experiments/tensorflow/grid_search/grid_search_fashion_mnist/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
